@@ -1,2 +1,2 @@
 # Hyperparameter-tuning-using-genetic-algorithm
-A repository applying a genetic algorithm on the tuning of Hyper-parameters of Random-Forest and Xgboost Models
+Under this Project I have applied Xgboost and Random-Forest Model on the credit card fraud detection dataset and than carried out the tuning of hyperparameters of both the models using the genetic algorithm thereby boosting the performance of both the models. 
